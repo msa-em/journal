@@ -1,0 +1,13 @@
+name: deploy-myst-site
+on:
+  push:
+    branches:
+      - main
+permissions:
+  pull-requests: write
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy 🚀
+        uses: curvenote/action-myst-publish
