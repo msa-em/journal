@@ -1,14 +1,9 @@
 version: 1
 project:
   title: Elemental Microscopy
-  description: ''
-  authors: []
   open_access: true
 site:
   title: Elemental Microscopy
-  projects:
-    - path: .
-      slug: journal
   nav:
     - title: Overview
       url: /overview
@@ -18,6 +13,5 @@ site:
       url: /submit
     - title: Editors
       url: /editors
-  actions: []
   domains:
     - microscopy-elemental.curve.space
