@@ -6,5 +6,5 @@ root: index
 chapters:
   - file: overview
   - file: articles
-  - file: editors
   - file: submit
+  - file: editors
