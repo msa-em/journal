@@ -3,7 +3,8 @@ project:
   title: Elemental Microscopy
   open_access: true
   abbreviations:
-    CC BY 4.0: Creative Commons Attribution 4.0 International 
+    CC BY 4.0: Creative Commons Attribution 4.0 International
+    MyST: Markedly Structured Text 
     NCEM: National Center for Electron Microscopy
     TEM: transmission electron microscopy
 site:
