@@ -4,9 +4,12 @@ project:
   open_access: true
   abbreviations:
     CC BY 4.0: Creative Commons Attribution 4.0 International
+    DOE: Department of Energy
     MyST: Markedly Structured Text 
     NCEM: National Center for Electron Microscopy
     TEM: transmission electron microscopy
+    STEM: scanning transmission electron microscopy
+    US: United States
 site:
   title: Elemental Microscopy
   logo_text: EM Interactive Journal
