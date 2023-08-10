@@ -1,21 +1,19 @@
 ---
 title: Editors
 description: ''
-name: editors
 ---
 
-```{warning} Draft content
-This content was taken from https://www.cambridge.org/core/what-we-publish/elements/elements-in-microscopy-and-microanalysis/about-the-editors
-```
 
-Series Editor Beth Dickey is Distinguished Professor and Associate Department Head in the Materials Science and Engineering Department at North Carolina State University. She is a Fellow of the Microscopy Society of America and of the American Ceramic Society, and is a member of the World Academy of Ceramics. (ecdickey@cmu.edu)
+### Editor-in-Chief
 
-Teng-Leong Chew, Director of the Advanced Imaging Center (AIC) at HHMI Janelia Research Campus (chewt@janelia.hhmi.org)
+`Colin Ophus` is a staff scientist at NCEM, part of the Molecular Foundry, at Lawrence Berkeley Lab. He runs both a research group and user program focused on methods, algorithms, and codes for simulation, analysis and instrument design for TEM. He has received a DOE Early Career award (2018) and was awarded the Burton medal from the Microscopy Society of America (2022). He is project leader for the Prismatic STEM simulation and py4DSTEM open-source codes. (cophus@gmail.com)
 
-Marc DeGraef, Professor of Materials Science and Engineering, Department of Materials Science and Engineering, Carnegie Mellon University (degraef@cmu.edu)
 
-Susan Hafenstein, Director of the Center for Structural Biology; Huck Chair of Structural Virology; Professor of Biochemistry and Molecular Biology, The Pennsylvania State University (suh21@psu.edu)
+### Editorial Board
 
-Lena F. Kourkoutis, Associate Professor, School of Applied and Engineering Physics, Cornell University (lena.f.kourkoutis@cornell.edu)
 
-Eric Stach, University of Pennsylvania (stach@seas.upenn.edu)
+`Beth Dickey` is Distinguished Professor and Associate Department Head in the Materials Science and Engineering Department at North Carolina State University. She is a Fellow of the Microscopy Society of America and of the American Ceramic Society, and is a member of the World Academy of Ceramics. (ecdickey@cmu.edu)
+
+
+We are currently recruiting additional members of the editorial board!  Contact [Colin Ophus](mailto:cophus@gmail.com) if you are interested.
+
