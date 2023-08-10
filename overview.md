@@ -16,9 +16,6 @@ Interactivity
 
 - **3D Volumes** with control over the viewing direction and magnification, isosurface levels, slice positions, and embedded measuremenets.
 
-
-, `Elemental Microscopy` offer an opportunity to develop a theme in greater detail than is possible in a traditional journal article, yet more concisely than would be expected in a full-length book.
-
 ---
 Code
 : Built on the Jupyter Book publishing platform and MyST markdown language, `Elemental Microscopy` articles can include Jupyter notebooks which reproduce visualization, analysis, and simulation workflows. Authors can save time by publishing notebooks directly rather than rewriting into LaTeX or Word formats, and then typesetting into journal-specific formats.

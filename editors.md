@@ -1,5 +1,5 @@
 ---
-title: Editors
+title: Editors and Developers
 description: ''
 ---
 
@@ -15,4 +15,21 @@ description: ''
 `Beth Dickey` is the Department Head and Teddy and Wilton Hawkins Distinguished Professor of the [Materials Science and Engineering](https://www.mse.engineering.cmu.edu/index.html) department at [Carnegie Mellon](https://www.cmu.edu/). She is a Fellow of the Microscopy Society of America and of the American Ceramic Society, and is a member of the World Academy of Ceramics. (ecdickey@cmu.edu)
 
 We are currently recruiting additional members of the editorial board!  Contact [Colin Ophus](mailto:cophus@gmail.com) if you are interested.
+
+---
+### Developers
+
+This journal platform was primary developed by the [Curvenote](https://curvenote.com/mission) team:
+
+`Rowan Cockett` is ...
+
+`Steve Purves` is ...
+
+`Franklin Koch` is ...
+
+
+---
+### Technology Development
+
+This journal leverages the vast ecosystem of open source software, especially [Python](https://www.python.org/), [NumPy](https://numpy.org/), [SciPy](https://scipy.org/), [IPyWidgets](https://ipywidgets.readthedocs.io/en/stable/), [Jupyter](https://jupyter.org/), [JupyterBook](https://jupyterbook.org/en/stable/intro.html), and [MyST](https://jupyterbook.org/en/stable/content/myst.html).
 
