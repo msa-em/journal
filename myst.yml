@@ -1,30 +1,25 @@
 version: 1
 project:
   title: Elemental Microscopy
-  short_title: Elemental Microscopy
   open_access: true
   abbreviations:
-    CC-BY4.0: Creative Commons Attribution 4.0 International 
+    CC BY 4.0: Creative Commons Attribution 4.0 International 
     NCEM: National Center for Electron Microscopy
     TEM: transmission electron microscopy
-# site:
-#   title: Elemental Microscopy 
-#   logo_text: EM Interactive Journal
-#   nav:
-#     - title: Overview
-#       url: /overview
-#     - title: Latest Research
-#       url: /articles
-#     - title: Submit
-#       url: /submit
-#     - title: Editors
-#       url: /editors
-#   domains:
-#     - microscopy-elemental.curve.space
-#   # template: book-theme
-#   projects:
-#       - slug: myst
-#         path: .
-#   actions:
-#     - title: Microscopy Society of America
-#       url: https://www.microscopy.org/
+site:
+  title: Elemental Microscopy
+  logo_text: EM Interactive Journal
+  nav:
+    - title: Overview
+      url: /overview
+    - title: Latest Research
+      url: /articles
+    - title: Submit
+      url: /submit
+    - title: Editors
+      url: /editors
+  domains:
+    - microscopy-elemental.curve.space
+  actions:
+    - title: Microscopy Society of America
+      url: https://www.microscopy.org/

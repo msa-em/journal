@@ -1,45 +1,37 @@
 ---
 title: Overview
 description: ''
-date: 2022-06-28T15:18:55.139Z
 ---
 
-```{warning} Draft content
-This content was taken from https://www.cambridge.org/core/what-we-publish/elements/elements-in-microscopy-and-microanalysis/about-the-editors
-```
+
+
+Interactivity
+: One major benefit of publusing in `Elemental Microscopy` is that you can publish experimental data using **highly interactive figures**. These include:
+
+- **Images** where you can zoom in, change the contrast levels, flip between channels such as raw and processed, modify colormaps, and overlay additional information.
+
+- **Movies** embedded directly in the text with the ability to play back at any speed, show live analysis, and all of the other interactive options available for images.
+
+- **Plotting Data** which can be expanded to show statistics, sources of input data and error bars, and correlation between channels. 
+
+- **3D Volumes** with control over the viewing direction and magnification, isosurface levels, slice positions, and embedded measuremenets.
+
+
+, `Elemental Microscopy` offer an opportunity to develop a theme in greater detail than is possible in a traditional journal article, yet more concisely than would be expected in a full-length book.
+
+
+Code
+: Built on the Jupyter Book publishing platform and MyST markdown language, `Elemental Microscopy` articles can include Jupyter notebooks which reproduce visualization, analysis, and simulation workflows. Authors can save time by publishing notebooks directly rather than rewriting into LaTeX or Word formats, and then typesetting into journal-specific formats.
+
 
 Flexibility
-: With lengths of approximately 20,000–30,000 words (40 to 75 pages), Elements offer an opportunity to develop a theme in greater detail than is possible in a traditional journal article, yet more concisely than would be expected in a full-length book.
+: With lengths of approximately 5,000–30,000 words, `Elemental Microscopy` offer an opportunity to develop a theme in greater detail than is possible in a traditional journal article, yet more concisely than would be expected in a full-length book.
 
-Rapid Publication and Dissemination
-: Elements will be published within 12 weeks of acceptance of the final manuscript, and each manuscript will be copy-edited prior to publication.
 
-Indexing
-: Relevant metadata for individual Elements will be sent to the key abstracting and indexing organizations and Altmetric data for individual Elements will also be available.
+Preprints and Peer Review
+: You can publish the initial version of a scientific paper on the `Elemental Microscopy` platform, marked as a preprint version. EM articles will then go through a peer review process. After passing this review, accepted articles will have the preprint label removed and have all referee reports attached to the paper. Reviewers may opt to publish their names alongside their review, or remain anonymous.
+
 
 Open Access
-: In order to comply with the requirements of funding agencies, Cambridge will offer Open Access publication options for Elements.
+: All `Elemental Microscopy` articles will be published under a CC BY 4.0 open access license. Each article will contain not only the code required to produce all results and figures, but also inline links to raw data and source code repositories.
 
-Peer Review
-: Each Elements series will have external series editors, and each individual Element will be peer-reviewed.
-
-Visibility
-: Elements will be promoted through global sales and marketing channels and will therefore reach the broadest possible international audience. They will be available as digital collections to institutional libraries as well as to individuals as e-books and in print-on-demand paperback format. Elements of particular topical interest will also receive additional exposure to mainstream and social media via a dedicated publicity team. Elements will have both an ISBN and an ISSN.
-
-Presentation
-: Digital versions of each Element will be in full color, allowing the clear display of complex information and figures. On appropriate devices, it will also be possible to display embedded audio and video files.
-
-Functionality
-: The digital-first Elements format allows:
-
-    - Enhanced search
-    - Linked references
-    - Citation export
-    - Richer content – social media, debates, resources for teaching, links to data repositories
-    - Ability to link to a variety of associated formats – audio, video
-    - Updatability
-
-Content will be hosted on the Cambridge Core platform, and Elements will benefit from launch marketing, increased discoverability and platform functionality updated on a regular basis.
-
-Copyright
-: Authors of Cambridge Elements will retain copyright in their work.
