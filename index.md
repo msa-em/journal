@@ -1,8 +1,6 @@
 ---
 title: Elemental Microscopy
-description: ''
-short_title: ''
-name: elemental microscopy
+description: Elemental Microscopy is an online journal published by the Microscopy Society of America. Our articles are highly interactive, leveraging the power of open-source scientific programming communities, and modern internet technologies.
 ---
 
 `Elemental Microscopy` is an online journal published by the [Microscopy Society of America](https://www.microscopy.org/). Our articles are highly interactive, leveraging the power of open-source scientific programming communities, and modern internet technologies.
