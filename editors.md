@@ -19,7 +19,7 @@ We are currently recruiting additional members of the editorial board! Contact [
 
 The Elemental Microscopy journal was developed by the [Curvenote](https://curvenote.com/mission) team and built with open source [MyST Markdown](https://mystmd.org) components.
 
-`Rowan Cockett` is the CEO and co-founder of [Curvenote](https://curvenote.com), which is an interactive, online writing and publishing platform for science, with dedicated integrations to Jupyter. Rowan is a core developer of MyST Markdown ([https://mystmd.org](https://mystmd.org/)) and has a Ph.D. in computational geophysics from the University of British Columbia (UBC) where he worked on large-scale simulation and parameter estimation package for geophysical processes (electromagnetics, fluid-flow, gravity, etc.).
+`Rowan Cockett` is the CEO and co-founder of [Curvenote](https://curvenote.com), which is an interactive, online writing and publishing platform for science, with dedicated integrations to Jupyter. Rowan is a core developer of [MyST Markdown](https://mystmd.org/) and has a Ph.D. in computational geophysics from the University of British Columbia (UBC) where he worked on large-scale simulation and parameter estimation package for geophysical processes (electromagnetics, fluid-flow, gravity, etc.).
 
 The larger [Curvenote team](https://curvenote.com/mission) including `Steve Purves`, `Franklin Koch` and `Mike Morrison` have been in involved in the design and development of Elemental Microscopy.
 
