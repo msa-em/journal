@@ -19,7 +19,7 @@ site:
     - title: Latest Research
       url: /articles
     - title: Submit
-      url: /submit
+      url: /writing-an-article
     - title: Team
       url: /editors
   domains:
