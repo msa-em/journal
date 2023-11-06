@@ -5,7 +5,7 @@ project:
   abbreviations:
     CC BY 4.0: Creative Commons Attribution 4.0 International
     DOE: Department of Energy
-    MyST: Markedly Structured Text 
+    MyST: Markedly Structured Text
     NCEM: National Center for Electron Microscopy
     TEM: transmission electron microscopy
     STEM: scanning transmission electron microscopy
@@ -20,7 +20,7 @@ site:
       url: /articles
     - title: Submit
       url: /submit
-    - title: Editors / Developers
+    - title: Team
       url: /editors
   domains:
     - microscopy-elemental.curve.space
