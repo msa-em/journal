@@ -20,7 +20,7 @@ site:
       url: /articles
     - title: Submit
       url: /submit
-    - title: People
+    - title: Team
       url: /editors
   domains:
     - microscopy-elemental.curve.space
