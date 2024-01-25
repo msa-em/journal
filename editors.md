@@ -11,6 +11,10 @@ description: Elemental Microscopy is headed up by Editor-in-Chief, Colin Ophus a
 
 `Beth Dickey` is the Department Head and Teddy and Wilton Hawkins Distinguished Professor of the [Materials Science and Engineering](https://www.mse.engineering.cmu.edu/index.html) department at [Carnegie Mellon](https://www.cmu.edu/). She is a Fellow of the Microscopy Society of America and of the American Ceramic Society, and is a member of the World Academy of Ceramics. (ecdickey@cmu.edu)
 
+`Georgios Varnavides` is a Miller Fellow postdoc working at the University of California, Berkeley and Lawrence Berkeley National Lab. (gvarnavides@berkeley.edu )
+
+
+
 We are currently recruiting additional members of the editorial board! Contact [Colin Ophus](mailto:cophus@gmail.com) if you are interested.
 
 ---
