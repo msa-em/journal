@@ -3,19 +3,21 @@ title: Editors and Developers
 description: Elemental Microscopy is headed up by Editor-in-Chief, Colin Ophus and is part of the Microscopy Society of America.
 ---
 
-## Editor-in-Chief
+## Editors
 
-`Colin Ophus` is a staff scientist at NCEM, part of the [Molecular Foundry](https://foundry.lbl.gov/), at [Lawrence Berkeley Lab](https://www.lbl.gov/). He runs both a research group and user program focused on methods, algorithms, and codes for simulation, analysis and instrument design for STEM and TEM. He has received a US DOE Early Career award (2018) and was awarded the [Burton Medal](https://www.microscopy.org/awards/bios/burton_physical_2022.cfm) from the Microscopy Society of America (2022). He is project leader for the [Prismatic](https://prism-em.com/) STEM simulation and [py4DSTEM](https://github.com/py4dstem/py4DSTEM) open-source codes. (cophus@gmail.com)
+`Colin Ophus` is an [Associate Professor](https://colab.stanford.edu/people) in the [Department of Materials Science and Engineering](https://mse.stanford.edu/) at [Stanford University](https://www.stanford.edu/), and a Center Fellow at the [Precourt Institute for Energy](https://energy.stanford.edu/). He was formerly a staff scientist at the [National Center for Electron Microscopy](https://foundry.lbl.gov/about/facilities/the-national-center-for-electron-microscopy-ncem/), part of the [Molecular Foundry](https://foundry.lbl.gov/), at [Lawrence Berkeley National Lab](https://www.lbl.gov/). He researchs experimental methods, reconstruction algorithms, and data analysis for TEM. He has received a US DOE Early Career award (2018) and was awarded the [Burton Medal](https://www.microscopy.org/awards/bios/burton_physical_2022.cfm) from the Microscopy Society of America (2022). He is project leader for the [Prismatic](https://prism-em.com/) STEM simulation and [py4DSTEM](https://github.com/py4dstem/py4DSTEM) open-source codes. He is the founding editor-in-chief for `Elemental Microscopy`. (cophus@stanford.edu)
+
+
+`Georgios Varnavides` is a Miller Fellow postdoc working at the University of California, Berkeley and Lawrence Berkeley National Lab. He is the technology editor for `Elemental Microscopy`. (gvarnavides@berkeley.edu)
+
 
 ## Editorial Board
 
+
 `Beth Dickey` is the Department Head and Teddy and Wilton Hawkins Distinguished Professor of the [Materials Science and Engineering](https://www.mse.engineering.cmu.edu/index.html) department at [Carnegie Mellon](https://www.cmu.edu/). She is a Fellow of the Microscopy Society of America and of the American Ceramic Society, and is a member of the World Academy of Ceramics. (ecdickey@cmu.edu)
 
-`Georgios Varnavides` is a Miller Fellow postdoc working at the University of California, Berkeley and Lawrence Berkeley National Lab. (gvarnavides@berkeley.edu )
 
-
-
-We are currently recruiting additional members of the editorial board! Contact [Colin Ophus](mailto:cophus@gmail.com) if you are interested.
+We are currently recruiting additional members of the editorial board! Contact [Colin Ophus](mailto:cophus@stanford.edu) if you are interested.
 
 ---
 
