@@ -1,0 +1,21 @@
+name: Curvenote Deploy Preview
+on:
+  pull_request:
+    branches: ['main']
+permissions:
+  contents: read
+  pull-requests: write
+concurrency:
+  group: 'preview-pages'
+  cancel-in-progress: false
+jobs:
+  build-and-deploy-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy Preview 🚀
+        uses: curvenote/action-myst-publish@v1
+        env:
+          CURVENOTE_TOKEN: ${{ secrets.CURVENOTE_TOKEN }}
+        with:
+          preview: true
+          preview_subdomain: microscopy_bot-myst_preview
