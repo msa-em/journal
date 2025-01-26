@@ -9,6 +9,8 @@ project:
     NCEM: National Center for Electron Microscopy
     TEM: transmission electron microscopy
     STEM: scanning transmission electron microscopy
+    S/TEM: scanning transmission electron microscopy
+    MSA: microscopy society of America
     US: United States
 site:
   title: Elemental Microscopy
