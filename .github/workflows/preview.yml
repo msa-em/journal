@@ -18,4 +18,4 @@ jobs:
           CURVENOTE_TOKEN: ${{ secrets.CURVENOTE_TOKEN }}
         with:
           preview: true
-          preview_subdomain: microscopy_bot-myst_preview
+          preview_subdomain: microscopy-myst_preview
