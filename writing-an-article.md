@@ -6,8 +6,8 @@ short_title: ''
 
 
 ```{important}
-The submission process is currently invite only!
-Please get in touch with [Colin](mailto:cophus@stanford.edu) or [George](mailto:gvarnavides@berkeley.edu) if you are interested in writing an article for `Elemental Microscopy`.
+The submission process currently requires communicating with an `EM` editor.
+Please get in touch with [Colin](mailto:cophus@stanford.edu) or [George](mailto:gvarnavides@berkeley.edu) if you are interested in submitting an article for `Elemental Microscopy`.
 ```
 
 These instructions will help you prepare and submit your manuscript using the EM platform. 

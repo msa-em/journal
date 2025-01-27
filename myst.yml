@@ -3,8 +3,10 @@ project:
   title: Elemental Microscopy
   open_access: true
   abbreviations:
+    APC: article processing charge
     CC BY 4.0: Creative Commons Attribution 4.0 International
     DOE: Department of Energy
+    DOI: digital object identifier
     MyST: Markedly Structured Text
     NCEM: National Center for Electron Microscopy
     TEM: transmission electron microscopy

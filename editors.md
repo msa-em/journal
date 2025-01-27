@@ -5,33 +5,39 @@ description: Elemental Microscopy is headed by Editor-in-Chief, Colin Ophus, Tec
 
 ## Editors
 
-`Colin Ophus` is an [Associate Professor](https://colab.stanford.edu/people) in the [Department of Materials Science and Engineering](https://mse.stanford.edu/) at [Stanford University](https://www.stanford.edu/), and a Center Fellow at the [Precourt Institute for Energy](https://energy.stanford.edu/). 
+`Colin Ophus` is an Associate Professor in the [Department of Materials Science and Engineering](https://mse.stanford.edu/) at [Stanford University](https://www.stanford.edu/), and a Center Fellow at the [Precourt Institute for Energy](https://energy.stanford.edu/). 
 He was formerly a staff scientist at the [National Center for Electron Microscopy](https://foundry.lbl.gov/about/facilities/the-national-center-for-electron-microscopy-ncem/), part of the [Molecular Foundry](https://foundry.lbl.gov/), at [Lawrence Berkeley National Lab](https://www.lbl.gov/). 
 He researches experimental methods, reconstruction algorithms, and data analysis for S/TEM. 
 He has received a US DOE Early Career award (2018) and was awarded the [Burton Medal](https://www.microscopy.org/awards/bios/burton_physical_2022.cfm) from the Microscopy Society of America (2022). 
 He is project leader for the [Prismatic](https://prism-em.com/) STEM simulation and [py4DSTEM](https://github.com/py4dstem/py4DSTEM) open-source codes. 
 He is the founding editor-in-chief for `Elemental Microscopy`. 
-He can be reached at cophus@stanford.edu
+[Email](mailto:cophus@stanford.edu)
+[Website](https://colab.stanford.edu/people)
+
 
 
 `Georgios Varnavides` is a [Miller Fellow](https://miller.berkeley.edu/) postdoctoral researcher working at the University of California, Berkeley and Lawrence Berkeley National Lab. 
 His research interests lie in developing new computational imaging modalities to observe the structure and function of materials at high resolution and sensitivity.
 He is one of the core developers of the phase-retrieval modules in the [py4DSTEM](https://github.com/py4dstem/py4DSTEM) open-source code.
 He is the technology editor for `Elemental Microscopy`, with extensive experience in using web-based open-source tools for pedagogy and science-communication.
-He can be reached at gvarnavides@berkeley.edu.
+[Email](mailto:gvarnavides@berkeley.edu)
+[Website](https://gvarnavides.com/)
+
+
+
+
+```{important}
+We are currently recruiting additional editoris and members of the editorial board! 
+Contact [Colin](mailto:cophus@stanford.edu) if you are interested.
+```
 
 
 ## Editorial Board
 
 
 `Beth Dickey` is the Department Head and Teddy and Wilton Hawkins Distinguished Professor of the [Materials Science and Engineering](https://www.mse.engineering.cmu.edu/index.html) department at [Carnegie Mellon](https://www.cmu.edu/). 
-She is a Fellow of the Microscopy Society of America and of the American Ceramic Society, and is a member of the World Academy of Ceramics. (ecdickey@cmu.edu)
-
-
-```{important}
-We are currently recruiting additional members of the editorial board! 
-Contact [Colin Ophus](mailto:cophus@stanford.edu) if you are interested.
-```
+She is a Fellow of the Microscopy Society of America and of the American Ceramic Society, and is a member of the World Academy of Ceramics.
+[Email](mailto:ecdickey@cmu.edu)
 
 ---
 

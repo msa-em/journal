@@ -6,8 +6,10 @@ description: Publishing in Elemental Microscopy allows you to publish experiment
 
 ## Overview
 
-Publishing in **Elemental Microscopy (EM)** provides a groundbreaking way to share experimental data through **highly interactive figures** and **dynamic content**. 
+Publishing in `Elemental Microscopy` (`EM`) provides a groundbreaking way to share experimental data through **highly interactive figures** and **dynamic content**. 
 EM is built for researchers who want to go beyond static PDFs, offering tools to publish open-access articles that integrate data, code, and multimedia while promoting transparency, reproducibility, and innovative publishing tools.
+
+Publication in `EM` is currently **free**, though we will be introducting an APC in  2026. 
 
 ---
 
@@ -17,9 +19,9 @@ One of the most significant advantages of publishing in `Elemental Microscopy` i
 
 - **Images**: Readers can zoom in, adjust contrast, flip between raw and processed data channels, overlay information, and customize colormaps.  
 - **Movies**: Embed movies directly within your manuscript, enabling readers to adjust playback speed, view live analyses, or interact with annotations in real time.  
-- **Plotting Data**: Add plots that allow readers to expand visualizations, explore statistics, view error bars, and compare data across multiple channels interactively.  
-- **3D Volumes**: Incorporate volumetric data with tools to control viewing angles, magnifications, slice positions, and isosurface levels, making complex datasets more accessible.  
-- **Anything Else you can Imagine**: You can include any python or jupyter tools you have developed for your research directly in your articles.
+- **Plotting data**: Add plots that allow readers to expand visualizations, explore statistics, view error bars, and compare data across multiple channels interactively.  
+- **3D volumes**: Incorporate volumetric data with tools to control viewing angles, magnifications, slice positions, and isosurface levels, making complex datasets more accessible.  
+- **Anything else you can imagine**: You can include any python or jupyter tools you have developed for your research directly in your articles.
 
 Interactivity can make your research more engaging and enable readers to explore your science in unprecedented depth.
 
@@ -27,7 +29,7 @@ Interactivity can make your research more engaging and enable readers to explore
 
 ## Code
 
-`Elemental Microscopy` is built on the **Jupyter Book publishing platform** and **MyST Markdown**, allowing seamless integration of **Jupyter notebooks**. 
+`Elemental Microscopy` is built on the [**Jupyter Book**](https://jupyterbook.org/en/stable/intro.html) publishing platform and [**MyST Markdown**](https://mystmd.org/) typesetting language, allowing seamless integration of [**Jupyter notebooks**](https://jupyter.org/). 
 Authors can:
 
 - Reproduce workflows for visualization, analysis, and simulation directly in the article.  
