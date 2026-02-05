@@ -21,10 +21,8 @@ project:
     - file: articles.md
     - file: writing-an-article.md
     - file: editors.md
-    
 site:
   title: Elemental Microscopy
-  logo_text: EM
   nav:
     - title: Overview
       url: /overview
@@ -34,8 +32,3 @@ site:
       url: /writing-an-article
     - title: Team
       url: /editors
-  domains:
-    - microscopy-elemental.curve.space
-  actions:
-    - title: Microscopy Society of America
-      url: https://www.microscopy.org/
