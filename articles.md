@@ -3,8 +3,10 @@ title: Latest Research
 description: ''
 ---
 
-article title / article link
-authors
-**Interactive abstract figure** 
-
-
+```{cn:articles}
+:venue: microscopy
+:show-thumbnails:
+:show-date:
+:show-authors:
+:layout: cards
+```
